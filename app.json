@@ -70,6 +70,14 @@
     "WIKI_JS_HEROKU": {
       "description": "Reserved for Wiki.js use",
       "generator": "secret"
+    },
+    "WIKI_GITHUB_CLIENT_ID": {
+      "description": "Github Client ID",
+      "generator": "Check your Github app"
+    },
+    "WIKI_GITHUB_CLIENT_SECRET": {
+      "description": "Github Client Secret",
+      "generator": "Check your Github app"
     }
   }
 }

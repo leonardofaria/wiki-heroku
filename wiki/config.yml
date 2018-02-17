@@ -70,8 +70,8 @@ auth:
     clientSecret: FACEBOOK_APP_SECRET
   github:
     enabled: false
-    clientId: GITHUB_CLIENT_ID
-    clientSecret: GITHUB_CLIENT_SECRET
+    clientId: $(WIKI_GITHUB_CLIENT_ID)
+    clientSecret: $(WIKI_GITHUB_CLIENT_SECRET)
   slack:
     enabled: false
     clientId: SLACK_CLIENT_ID
