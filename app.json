@@ -71,6 +71,10 @@
       "description": "Reserved for Wiki.js use",
       "generator": "secret"
     },
+    "WIKI_GITHUB_ENABLED": {
+      "description": "Whether to enable Github authentication",
+      "value": "true"
+    },
     "WIKI_GITHUB_CLIENT_ID": {
       "description": "Github Client ID",
       "value": "abc123"
