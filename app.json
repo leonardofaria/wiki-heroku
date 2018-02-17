@@ -73,11 +73,11 @@
     },
     "WIKI_GITHUB_CLIENT_ID": {
       "description": "Github Client ID",
-      "generator": "Check your Github app"
+      "value": "abc123"
     },
     "WIKI_GITHUB_CLIENT_SECRET": {
       "description": "Github Client Secret",
-      "generator": "Check your Github app"
+      "value": "abc123"
     }
   }
 }
